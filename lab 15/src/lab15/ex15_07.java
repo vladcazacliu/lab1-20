@@ -20,7 +20,7 @@ public class ex15_07 {
 
     }
 
-    // Evite números de telefone com os dígitos 0 e 1.
+   
     public static void isNumberValid() {
 
     }
