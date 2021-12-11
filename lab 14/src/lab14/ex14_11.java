@@ -21,7 +21,7 @@ public class ex14_11 {
             }
         }
 
-        System.out.printf("\'%s\' aparece %d vez(es) no texto", key, counter);
+        System.out.printf("\'%s\' aparenta %d ori in text", key, counter);
 
     }
 
